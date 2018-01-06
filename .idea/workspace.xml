@@ -2,13 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f5b6d-9c6c-4508-b232-2711cdf22e00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/static/music/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OnlineDj/settings.py" afterPath="$PROJECT_DIR$/OnlineDj/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OnlineDj/urls.py" afterPath="$PROJECT_DIR$/OnlineDj/urls.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoilSpring1.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoilSpring1_wLDcUxb.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoilSpring2.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoinOrchestral.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoinOrchestral_5yRhU7I.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CoinSpecial.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/CreatureCollision.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Death1.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Death2.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Green-Day-American-Idiot-album-cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Green-Day-American-Idiot-album-cover_5U3hfOr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn1.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn1_OEboMAo.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn1_u1iAXug.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn1_xLzqSqn.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn2.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/HeroDrawn2_N9Xbg5n.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Jump3.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Jump3_4f8Zjky.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/LevelEndOrchestral.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Taylor_Swift_Red_Album_Art_Cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Taylor_Swift_Red_Album_Art_Cover_R5YqWZ2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Taylor_Swift_Red_Album_Art_Cover_TOY7ET6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Taylor_Swift_Red_Album_Art_Cover_kqhkrGQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/Taylor_Swift_Red_Album_Art_Cover_qcn5Huy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/adele.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/adele_Pdxbhmu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/americanpie.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/cash.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/eminem-recovery-official-album-cover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/eminem-recovery-official-album-cover_LOBQG3Y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/jayz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/jayz_h5iRsqE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/jayz_il20OAb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/tv-on-the-radio-happy-idiot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/tv-on-the-radio-happy-idiot_9ZI07qJ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/music/media/tv-on-the-radio-happy-idiot_EiwfwV3.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/detail.html" afterPath="$PROJECT_DIR$/music/templates/music/detail.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="create_song.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/music/templates/music/create_song.html">
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+            <state relative-caret-position="407">
+              <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -57,10 +90,11 @@
         <option value="$PROJECT_DIR$/music/templates/music/base_visitor.html" />
         <option value="$PROJECT_DIR$/music/templates/music/create_album.html" />
         <option value="$PROJECT_DIR$/music/templates/music/create_song.html" />
+        <option value="$PROJECT_DIR$/music/templates/music/detail.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="387" />
     <option name="y" value="42" />
     <option name="width" value="903" />
@@ -94,19 +128,6 @@
             <path>
               <item name="OnlineDj" type="b2602c69:ProjectViewProjectNode" />
               <item name="OnlineDj" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlineDj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlineDj" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OnlineDj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OnlineDj" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="music" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -151,10 +172,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1709531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -305,8 +325,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/create_song.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        <state relative-caret-position="407">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
           <folding />
         </state>
       </provider>
