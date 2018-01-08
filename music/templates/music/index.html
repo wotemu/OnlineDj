@@ -3,7 +3,6 @@
 
 {% block body %}
 <div class="albums-container container-fluid">
-
     <!-- Albums -->
     <div class="row">
         <div class="col-sm-12">
@@ -36,7 +35,6 @@
                             <a href="{% url 'music:favorite_album' album.id %}" class="btn btn-default btn-sm btn-favorite" role="button">
                                 <span class="glyphicon glyphicon-star {% if album.is_favorite %}active{% endif %}"></span>
                             </a>
-
                         </div>
                     </div>
                 </div>
